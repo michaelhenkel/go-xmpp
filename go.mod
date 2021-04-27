@@ -1,4 +1,4 @@
-module github.com/michaelhenkel/xmpp
+module github.com/michaelhenkel/go-xmpp
 
 go 1.13
 
