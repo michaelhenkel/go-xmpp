@@ -7,7 +7,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 	"io"
 )
 

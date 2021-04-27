@@ -10,7 +10,7 @@ import (
 	"net"
 	"time"
 
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 )
 
 // XMPPTransport implements the XMPP native TCP transport

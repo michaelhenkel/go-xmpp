@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 )
 
 // Tests are ran in parallel, so each test creating a server must use a different port so we do not get any

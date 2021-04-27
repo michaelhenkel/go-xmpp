@@ -12,8 +12,8 @@ import (
 	"log"
 	"time"
 
-	"gosrc.io/xmpp"
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 )
 
 const (

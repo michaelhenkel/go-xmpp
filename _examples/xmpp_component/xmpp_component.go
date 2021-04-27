@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"gosrc.io/xmpp"
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 )
 
 func main() {

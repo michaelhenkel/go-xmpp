@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 )
 
 var reLeadcloseWhtsp = regexp.MustCompile(`^[\s\p{Zs}]+|[\s\p{Zs}]+$`)

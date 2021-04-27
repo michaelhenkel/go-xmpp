@@ -7,7 +7,7 @@ fluuxIO's XMPP command-line tool
 To install `fluuxmpp` in your Go path:
 
 ```
-$ go get -u gosrc.io/xmpp/cmd/fluuxmpp
+$ go get -u github.com/michaelhenkel/go-xmpp/cmd/fluuxmpp
 ```
 
 ## Usage

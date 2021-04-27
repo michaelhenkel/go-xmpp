@@ -1,6 +1,6 @@
 # Fluux XMPP
 
-[![GoDoc](https://godoc.org/gosrc.io/xmpp?status.svg)](https://godoc.org/gosrc.io/xmpp) [![GoReportCard](https://goreportcard.com/badge/gosrc.io/xmpp)](https://goreportcard.com/report/fluux.io/xmpp) [![Coverage Status](https://coveralls.io/repos/github/FluuxIO/go-xmpp/badge.svg?branch=master)](https://coveralls.io/github/FluuxIO/go-xmpp?branch=master)
+[![GoDoc](https://godoc.org/github.com/michaelhenkel/go-xmpp?status.svg)](https://godoc.org/github.com/michaelhenkel/go-xmpp) [![GoReportCard](https://goreportcard.com/badge/github.com/michaelhenkel/go-xmpp)](https://goreportcard.com/report/fluux.io/xmpp) [![Coverage Status](https://coveralls.io/repos/github/FluuxIO/go-xmpp/badge.svg?branch=master)](https://coveralls.io/github/FluuxIO/go-xmpp?branch=master)
 
 Fluux XMPP is a Go XMPP library, focusing on simplicity, simple automation, and IoT.
 
@@ -105,8 +105,8 @@ import (
 	"log"
 	"os"
 
-	"gosrc.io/xmpp"
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 )
 
 func main() {
@@ -155,4 +155,4 @@ func errorHandler(err error) {
 
 ## Reference documentation
 
-The code documentation is available on GoDoc: [gosrc.io/xmpp](https://godoc.org/gosrc.io/xmpp)
+The code documentation is available on GoDoc: [github.com/michaelhenkel/go-xmpp](https://godoc.org/github.com/michaelhenkel/go-xmpp)

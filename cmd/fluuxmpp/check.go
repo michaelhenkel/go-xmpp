@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/bdlm/log"
+	"github.com/michaelhenkel/go-xmpp"
 	"github.com/spf13/cobra"
-	"gosrc.io/xmpp"
 )
 
 var domain = ""

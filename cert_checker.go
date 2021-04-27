@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 )
 
 // TODO: Should I move this as an extension of the client?

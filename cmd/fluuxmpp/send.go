@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 	"os"
 	"strings"
 	"sync"
@@ -11,7 +11,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"gosrc.io/xmpp"
+	"github.com/michaelhenkel/go-xmpp"
 )
 
 var configFile = ""

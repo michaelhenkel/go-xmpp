@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 )
 
 // ============================================================================

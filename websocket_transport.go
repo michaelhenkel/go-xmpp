@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 	"nhooyr.io/websocket"
 )
 

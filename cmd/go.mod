@@ -1,4 +1,4 @@
-module gosrc.io/xmpp/cmd
+module github.com/michaelhenkel/go-xmpp/cmd
 
 go 1.13
 
@@ -7,7 +7,7 @@ require (
 	github.com/bdlm/std v0.0.0-20180922040903-fd3b596111c7
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/viper v1.6.1
-	gosrc.io/xmpp v0.1.1
+	github.com/michaelhenkel/go-xmpp v0.1.1
 )
 
-replace gosrc.io/xmpp => ./../
+replace github.com/michaelhenkel/go-xmpp => ./../

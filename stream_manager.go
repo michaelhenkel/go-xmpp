@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/michaelhenkel/go-xmpp/stanza"
 	"golang.org/x/xerrors"
-	"gosrc.io/xmpp/stanza"
 )
 
 // The Fluux XMPP lib can manage client or component XMPP streams.

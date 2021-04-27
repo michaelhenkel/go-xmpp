@@ -5,8 +5,8 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"gosrc.io/xmpp"
-	"gosrc.io/xmpp/stanza"
+	"github.com/michaelhenkel/go-xmpp"
+	"github.com/michaelhenkel/go-xmpp/stanza"
 	"log"
 	"time"
 )
